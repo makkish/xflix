@@ -52,7 +52,7 @@ collections:
     template: { name: genre, genre: drama }
     url_poster: https://i.imgur.com/RwOUFLI.jpg
   Family:
-    template: { name: genre, genre: family }
+    template: { name: genre, genre: "family, familj" }
     url_poster: https://i.imgur.com/k4VAgNR.jpg
   Fantasy:
     template: { name: genre, genre: fantasy }
