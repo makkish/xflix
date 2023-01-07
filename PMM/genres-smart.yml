@@ -27,8 +27,7 @@ collections:
     template: { name: genre, genre: adventure }
     url_poster: https://i.imgur.com/fZMIfdy.jpg
   Animation:
-#    template: { name: genre, genre: animation }
-    template: { name: genre, genre: animerat }
+    template: { name: genre, genre: "animation, animerat" }
     url_poster: https://i.imgur.com/W9355wl.jpg
   Biography:
     template: { name: genre, genre: biography }
@@ -43,10 +42,10 @@ collections:
     template: { name: genre, genre: "cooking, food" }
     url_poster: https://i.imgur.com/dVXspVv.jpg
   Crime:
-    template: { name: genre, genre: crime }
+    template: { name: genre, genre: "crime, kriminal" }
     url_poster: https://i.imgur.com/1FYD7Cz.jpg
   Documentary:
-    template: { name: genre, genre: dokumentär }
+    template: { name: genre, genre: "documentary, dokumentar" }
     url_poster: https://i.imgur.com/KRH25hE.jpg
   Drama:
     template: { name: genre, genre: drama }
@@ -58,10 +57,10 @@ collections:
     template: { name: genre, genre: fantasy }
     url_poster: https://i.imgur.com/IdeoNnr.jpg
   History:
-    template: { name: genre, genre: history }
+    template: { name: genre, genre: "history, historisk" }
     url_poster: https://i.imgur.com/1n070o0.jpg
   Horror:
-    template: { name: genre, genre: horror }
+    template: { name: genre, genre: "horror, skrack" }
     url_poster: https://i.imgur.com/M6msOoq.jpg
   Music:
     template: { name: genre, genre: music }
@@ -70,13 +69,13 @@ collections:
     template: { name: genre, genre: musical }
     url_poster: https://i.imgur.com/xBTTyNx.jpg
   Mystery:
-    template: { name: genre, genre: mystery }
+    template: { name: genre, genre: "mystery, mystik" }
     url_poster: https://i.imgur.com/t1ArisJ.jpg
   Reality:
     template: { name: genre, genre: reality }
     url_poster: https://i.imgur.com/aDp1CZ9.jpg
   Romance:
-    template: { name: genre, genre: romance }
+    template: { name: genre, genre: "romance, romantik" }
     url_poster: https://i.imgur.com/0Jm9Jck.jpg
   Romantic Comedy:
     template: { name: genre, genre: "romance,comedy" }
@@ -97,8 +96,8 @@ collections:
     template: { name: genre, genre: thriller }
     url_poster: https://i.imgur.com/i4K4wXI.jpg
   War:
-    template: { name: genre, genre: war }
+    template: { name: genre, genre: "war, krig" }
     url_poster: https://i.imgur.com/tPgvWij.jpg
   Western:
-    template: { name: genre, genre: western }
+    template: { name: genre, genre: "western, vastern" }
     url_poster: https://i.imgur.com/NbiRkV6.jpg
