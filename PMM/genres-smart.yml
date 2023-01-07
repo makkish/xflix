@@ -27,7 +27,7 @@ collections:
     template: { name: genre, genre: adventure }
     url_poster: https://i.imgur.com/fZMIfdy.jpg
   Animation:
-    template: { name: genre, genre: animation }
+    template: { name: genre, genre: animation, animerat }
     url_poster: https://i.imgur.com/W9355wl.jpg
   Biography:
     template: { name: genre, genre: biography }
