@@ -5,6 +5,8 @@
 #based on bison529's PMM files, added translated genres
 #https://github.com/meisnate12/Plex-Meta-Manager-Configs/tree/master/bison529
 
+#test 22:01
+
 templates:
   genre:
     sort_title: +15_<<collection_name>>
