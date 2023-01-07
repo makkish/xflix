@@ -33,7 +33,7 @@ collections:
     template: { name: genre, genre: biography }
     url_poster: https://i.imgur.com/KRH25hE.jpg
   Comedy:
-    template: { name: genre, genre: comedy }
+    template: { name: genre, genre: "comedy, komedi" }
     url_poster: https://i.imgur.com/dIMKbt9.jpg
   Competition:
     template: { name: genre, genre: "game show" }
