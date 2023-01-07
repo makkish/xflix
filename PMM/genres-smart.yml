@@ -42,7 +42,7 @@ collections:
     template: { name: genre, genre: "cooking, food" }
     url_poster: https://i.imgur.com/dVXspVv.jpg
   Crime:
-    template: { name: genre, genre: "crime, kriminal" }
+    template: { name: genre, genre: "kriminal, crime" }
     url_poster: https://i.imgur.com/1FYD7Cz.jpg
   Documentary:
     template: { name: genre, genre: "documentary, dokumentar" }
@@ -99,5 +99,5 @@ collections:
     template: { name: genre, genre: "war, krig" }
     url_poster: https://i.imgur.com/tPgvWij.jpg
   Western:
-    template: { name: genre, genre: "western, vastern" }
+    template: { name: genre, genre: "vastern, western" }
     url_poster: https://i.imgur.com/NbiRkV6.jpg
